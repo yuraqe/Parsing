@@ -1,0 +1,10 @@
+index.html
+
+venv/
+.env/
+
+__pycache__/
+*.pyc
+*.pyo
+
+*.csv
